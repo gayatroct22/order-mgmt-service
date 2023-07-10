@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "instrumentId": "INST1",
+  "quantity": 150,
+  "entryDate": "2023-07-10T10:00:00",
+  "type": "BUY",
+  "price": 150.5,
+  "orderComplete": null
+}
